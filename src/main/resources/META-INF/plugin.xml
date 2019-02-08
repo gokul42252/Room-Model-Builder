@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>Room Model Builder.Room-Model-Builder</id>
     <name>Room Table Builder</name>
-    <vendor email="gokul42252@gmail.com" url="http://www.thoughtnerds.com">Cretlabs</vendor>
+    <vendor email="" url="">Cretlabs</vendor>
     <version>1.0</version>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
@@ -22,11 +22,6 @@
             <add-to-group group-id="NewGroup" anchor="first"/>
         </action>
 
-        <!--<group id="MyPlugin.SampleMenu" text="Room" description="Greeting menu">-->
-        <!--<add-to-group group-id="MainMenu" anchor="last"/>-->
-        <!--<action id="Room.Dialog" class="actions.RoomSchemaAction="Create Room Model"-->
-        <!--description="Create room model from json"/>-->
-        <!--</group>-->
-
+   
     </actions>
 </idea-plugin>
